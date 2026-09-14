@@ -1,0 +1,23 @@
+{
+  "session": {
+    "session_id": "low_001",
+    "client_id": "client_001",
+    "visit_date": "2023-01-15",
+    "visit_time": "23:45:00",
+    "visit_number": 1,
+    "utm_source": "unknown",
+    "utm_medium": "banner",
+    "utm_campaign": "campaign_bad",
+    "utm_adcontent": "ad_bad",
+    "utm_keyword": null,
+    "device_category": "mobile",
+    "device_os": "iOS",
+    "device_brand": "Apple",
+    "device_model": null,
+    "device_screen_resolution": "390x844",
+    "device_browser": "Safari",
+    "geo_country": "Russia",
+    "geo_city": "Ufa"
+  },
+  "hits": []
+}

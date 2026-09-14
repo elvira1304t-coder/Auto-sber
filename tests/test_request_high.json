@@ -1,0 +1,34 @@
+{
+  "session": {
+    "session_id": "high_001",
+    "client_id": "client_003",
+    "visit_date": "2023-06-10",
+    "visit_time": "11:15:00",
+    "visit_number": 5,
+    "utm_source": "yandex",
+    "utm_medium": "organic",
+    "utm_campaign": null,
+    "utm_adcontent": null,
+    "utm_keyword": "купить авто",
+    "device_category": "desktop",
+    "device_os": "Windows",
+    "device_brand": "Apple",
+    "device_model": null,
+    "device_screen_resolution": "1920x1080",
+    "device_browser": "Chrome",
+    "geo_country": "Russia",
+    "geo_city": "Moscow"
+  },
+  "hits": [
+    {"hit_page_path": "/cars/all/mercedes-benz/e-class/123"},
+    {"hit_page_path": "/cars/all/mercedes-benz/e-class/123"},
+    {"hit_page_path": "/cars/all/mercedes-benz/e-class/123"},
+    {"hit_page_path": "/cars/all/bmw/5-series/456"},
+    {"hit_page_path": "/cars/all/bmw/5-series/456"},
+    {"hit_page_path": "/cars/all/audi/a6/789"},
+    {"hit_page_path": "/cars/all/audi/a6/789"},
+    {"hit_page_path": "/cars/all/audi/a6/789"},
+    {"hit_page_path": "/cars/all/audi/a6/789"},
+    {"hit_page_path": "/cars/all/volkswagen/polo/111"}
+  ]
+}
